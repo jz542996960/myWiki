@@ -1,5 +1,4 @@
 site_name: My Docs
-
 nav:
   - 首页: 'index.md'
   - Java: 'mysql中char和varchar的区别.md'
